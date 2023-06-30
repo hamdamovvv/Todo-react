@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +42,5 @@
     transform: rotate(360deg);
   }
 }
+
+
